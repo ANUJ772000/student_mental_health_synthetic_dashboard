@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Resolve data path relative to this file (works on Streamlit Cloud and locally)
-DATA_PATH = Path(__file__).parent / "EA.csv"
+DATA_PATH = Path(__file__).parent / "student_mental_health_dataset.csv"
 
 # ─────────────────────────────────────────────
 # PAGE CONFIG
